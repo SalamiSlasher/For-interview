@@ -7,4 +7,4 @@
 Python, C++, SQL, умею пользоваться гитом
 
 ## Experience
-Как-то раз писал ботов для телеграма @MiomaBot @crm_miomaBot
+Как-то раз писал ботов для телеграма @MiomaBot @crm_miomaBot @Mioma_ru_bot
